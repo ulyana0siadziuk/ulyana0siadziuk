@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulyana0siadziuk&layout=compact&theme=tokyonight&hide=cpp&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulyana0siadziuk&layout=compact&theme=tokyonight&cache_seconds=1" />
 </p>
 
 ---
