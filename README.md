@@ -69,6 +69,6 @@
 
 ### 📫 Contacts
 
-- 💌 Email: your_email@gmail.com
+- 💌 Email: ulyana.siardziuk@gmail.com
 - 💼 GitHub: https://github.com/ulyana0siadziuk
 
