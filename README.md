@@ -61,14 +61,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ulyana0siadziuk&theme=tokyonight&row=1" />
-</p>
-
----
-
 ### 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulyana0siadziuk&theme=tokyo-night" />
