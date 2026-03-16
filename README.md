@@ -59,14 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulyana0siadziuk&layout=compact&theme=tokyonight&cache_seconds=1" />
 </p>
 
----
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulyana0siadziuk&theme=tokyo-night" />
-
----
-
 ### 📫 Contacts
 
 - 💌 Email: ulyana.siardziuk@gmail.com
