@@ -42,7 +42,7 @@
   <a href="https://www.codewars.com/users/ulyana0siadziuk">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
-  <a href="[https://leetcode.com/u/ulyana0siadziuk/](https://leetcode.com/u/Ulyana_Siardziuk/)">
+  <a href="https://leetcode.com/u/Ulyana_Siardziuk/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
