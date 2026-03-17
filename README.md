@@ -63,4 +63,4 @@
 
 - 💌 Email: ulyana.siardziuk@gmail.com
 - 💼 GitHub: https://github.com/ulyana0siadziuk
-
+- 📚 [linkedin](https://www.linkedin.com/in/%D1%83%D0%BB%D1%8C%D1%8F%D0%BD%D0%B0-%D1%81%D0%B5%D1%80%D0%B4%D1%8E%D0%BA-0774b8305/)
